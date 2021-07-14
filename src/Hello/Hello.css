@@ -1,0 +1,30 @@
+.title{
+    /* background-color: aqua; */
+    height: 30px;
+    line-height: 30px;
+}
+li{
+    list-style: none;
+}
+input{
+    margin:100px 10px 0 250px;
+}
+.search{
+    width: 800px;
+    height: 200px;
+    background: rgba(245, 238, 238, 0.959);
+    margin: 10px auto;
+    position: relative;
+}
+h3{
+    margin-left: 250px;
+    /* margin-top: 50px; */
+    position: absolute;
+    top: 30px;
+}
+h5{
+    position: absolute;
+    top: 55px;
+    color: red;
+    left: 250px;
+}
